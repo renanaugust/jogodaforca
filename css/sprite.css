@@ -1,0 +1,77 @@
+.sprite {
+  background: url(../img/sprite.jpeg) no-repeat;
+  width: 162.6px;
+  height: 160.5px;
+  margin: 0 auto;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: aliceblue;
+}
+
+.input {
+  border-radius: 100px;
+}
+
+input {
+  border-radius: 100px !important;
+  height: 50px;
+  text-align: center;
+  border: 2px solid #8031a7 !important;
+}
+
+textarea {
+  color: #8031a7;
+}
+
+::placeholder {
+  color: #8031a7;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.jumbotron {
+  background-color: #8031a7;
+}
+
+.frame1 {
+  background-position: 0 0;
+}
+
+.frame2 {
+  background-position: 25% 0;
+}
+
+.frame3 {
+  background-position: 50% 0;
+}
+
+.frame4 {
+  background-position: 75% 0;
+}
+
+.frame5 {
+  background-position: 100% 0;
+}
+
+.frame6 {
+  background-position: 0 100%;
+}
+
+.frame7 {
+  background-position: 25% 100%;
+}
+
+.frame8 {
+  background-position: 50% 100%;
+}
+
+.frame9 {
+  background-position: 75% 100%;
+}
